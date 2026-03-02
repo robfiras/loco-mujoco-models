@@ -1,0 +1,3 @@
+# MyoSkeleton (myo_model) is not included for licensing reasons.
+# Install it separately with: loco-mujoco-myomodel-init
+myo_model/
