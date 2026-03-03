@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "loco-mujoco-models"
+version = "0.1.0"
+description = "Robot XML and asset files for LocoMuJoCo."
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Firas Al-Hafez", email = "fi.alhafez@gmail.com" }]
+license = { text = "MIT" }
+
+dependencies = []
+
+[tool.setuptools.packages.find]
+where = ["."]
+
