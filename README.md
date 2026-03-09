@@ -22,6 +22,6 @@ This repository bundles several third‑party robot models. Many subdirectories 
 - `loco_mujoco_models/anybotics_anymal_c`: **ANYmal C** quadruped model from the **MuJoCo Menagerie**, derived from the public URDF provided by **ANYbotics AG**.
 - `loco_mujoco_models/talos`: **TALOS** humanoid model from the **MuJoCo Menagerie**, representing the TALOS robot developed by **PAL Robotics** (Apache‑2.0).
 - `loco_mujoco_models/booster_t1`: **Booster T1** humanoid model as distributed via the **MuJoCo Menagerie** / Google DeepMind resources for the Booster Robotics platform.
-- `loco_mujoco_models/apptronik_apollo`: **Apollo** humanoid model provided by **Apptronik** under the Apache‑2.0 license.
+- `loco_mujoco_models/apptronik_apollo`: **Apollo** humanoid model from the **MuJoCo Menagerie**, originally provided by **Apptronik** under the Apache‑2.0 license.
 - `loco_mujoco_models/toddlerbot`: **ToddlerBot** open‑source humanoid model from the **ToddlerBot** project (`hshi74/toddlerbot`, MIT license).
 - `loco_mujoco_models/fourier_gr1t2`: **Fourier GR1T2** humanoid model from **Fourier Intelligence** GR‑series MuJoCo resources (e.g. `FFTAI/Wiki-GRx-Mujoco`, MIT license).
