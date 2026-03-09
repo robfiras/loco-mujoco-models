@@ -1,3 +1,6 @@
 # MyoSkeleton (myo_model) is not included for licensing reasons.
 # Install it separately with: loco-mujoco-myomodel-init
 myo_model/
+
+loco_mujoco_models.egg-info/
+loco_mujoco_models/__pycache__/
